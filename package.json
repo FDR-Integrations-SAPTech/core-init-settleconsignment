@@ -17,7 +17,7 @@
     "@sapui5/ts-types": "~1.141.0",
     "@sapui5/types": "~1.120.0",
     "@ui5/cli": "^4.0.33",
-    "eslint": "^8.57.0",
+    "eslint": "^7.32.0",
     "eslint-plugin-fiori-custom": "2.6.7",
     "rimraf": "^5.0.5",
     "typescript": "^5.9.3",
