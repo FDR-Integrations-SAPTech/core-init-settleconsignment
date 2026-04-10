@@ -15,10 +15,11 @@ builder:
     - name: deploy-to-abap
       afterTask: generateCachebusterInfo
       configuration:
+        log: 4
         target:
           destination: virtualds4
           url: http://virtualds4:44300
-          client: '050'
+          client: '100'
         app:
           name: ZFE_MM_CONSGNPO
           description: Settle Consignment Init
